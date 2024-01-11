@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>457f36e8-0286-44a4-a5d0-2d3dbeaf432e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Naipia.Python_Journey.py</StartupFile>
+    <StartupFile>Naipia.Python_Journey.01.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Naipia.Python_Journey.py" />
+    <Compile Include="Naipia.Python_Journey.01.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
